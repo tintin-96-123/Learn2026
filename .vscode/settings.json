@@ -11,7 +11,12 @@
             "packageManager": "ms-python.python:pip"
         },
         {
-            "path": "ch-2/name_cases.py",
+            "path": "ch-2/2.4_name_cases.py",
+            "envManager": "ms-python.python:venv",
+            "packageManager": "ms-python.python:pip"
+        },
+        {
+            "path": "ch-2/2.5_famous quote.py",
             "envManager": "ms-python.python:venv",
             "packageManager": "ms-python.python:pip"
         }
