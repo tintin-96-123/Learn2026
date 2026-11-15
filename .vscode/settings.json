@@ -1,22 +1,12 @@
 {
     "python-envs.pythonProjects": [
         {
-            "path": "ch-2",
+            "path": "ch-3/3-1. names.py",
             "envManager": "ms-python.python:venv",
             "packageManager": "ms-python.python:pip"
         },
         {
-            "path": "ch-2/2.2_simple m.py",
-            "envManager": "ms-python.python:venv",
-            "packageManager": "ms-python.python:pip"
-        },
-        {
-            "path": "ch-2/2.4_name_cases.py",
-            "envManager": "ms-python.python:venv",
-            "packageManager": "ms-python.python:pip"
-        },
-        {
-            "path": "ch-2/2.5_famous quote.py",
+            "path": "ch-3/3-3. your own list.py",
             "envManager": "ms-python.python:venv",
             "packageManager": "ms-python.python:pip"
         }
